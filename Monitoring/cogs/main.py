@@ -1,6 +1,6 @@
 from main import *
 import re
-filename = "D:\Steam\steamapps\common\DayZServer\profiles\DayZServer_x64.ADM"
+filename = settings['Adm']
 class main(commands.Cog):
     def __init__(self,bot):
         self.bot=bot
