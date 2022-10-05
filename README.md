@@ -26,6 +26,9 @@ adminLogPlayerList = 1;)
 
 ![image](https://user-images.githubusercontent.com/83073582/194147662-6e095f13-a7eb-4f8f-bb11-48bdb6777cbb.png)
 
+![image](https://user-images.githubusercontent.com/83073582/194148373-dc8a4a86-ba88-4278-b912-14912737fdf0.png)
+
+
 ![image](https://user-images.githubusercontent.com/83073582/194148208-8cb520a8-75ef-4247-baa2-1eb1367039d8.png)
 
 ![image](https://user-images.githubusercontent.com/83073582/194148242-ce5fc909-9393-4a3a-a85c-01fb9bc8074b.png)
