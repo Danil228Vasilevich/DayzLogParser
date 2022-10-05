@@ -7,7 +7,7 @@ https://www.donationalerts.com/r/tribute22
 Ну после выпрашивания денег можно приступить к настройке моего говнокода.
 В файле config.py нужно указать:
 1) В поле token нудно вставить токен бота. Токен можно получить тут https://discord.com/developers/docs/game-sdk/applications
-2) В поле Adm нужно указать полный путь к Adm файлy, если его у вас нет тогда фаиле запуска указываем такие параметры -dologs -adminlog -AdminLogPlacement -AdminLogBuildActions -netlog а в фаиле serverDZ.cfg вставляем такие параметры:
+2) В поле Adm нужно указать полный путь к Adm файлy, если его у вас нет тогда: фаиле запуска указываем такие параметры -dologs -adminlog -AdminLogPlacement -AdminLogBuildActions -netlog а в фаиле serverDZ.cfg вставляем такие параметры:
 adminLogPlayerHitsOnly = 1;
 adminLogPlacement = 1;
 adminLogBuildActions = 1;
