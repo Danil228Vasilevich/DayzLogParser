@@ -22,7 +22,7 @@ pip install asyncio
 Есть еще и мониторинг онлайна Monitor.py
 Там уже сами разбирайтесь все интуитивно понятно)))))))))))))))))))))))))))))))))))))))))))
 
-Вроде все объяснил ) мой дискорд DanilVasilevich#3037 https://discord.gg/V9aXXvdgH2
+Вроде все объяснил ) мой дискорд DanilVasilevich#3037 https://discord.gg/V9aXXvdgH2 все вопросы сюда)
 
 ![image](https://user-images.githubusercontent.com/83073582/194147569-837a9b7f-5ef0-4763-b8d6-04b5e56d99e8.png)
 
