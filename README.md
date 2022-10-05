@@ -1,2 +1,26 @@
 # DayzLogParser
-DayzLogParser
+Это простой парсер Dayz ADM логов 
+Поддержать школьника копеечкой можно тута 
+https://www.donationalerts.com/r/tribute22
+
+# Настройка
+Ну после выпрашивания денег можно приступить к настройке моего говнокода.
+В файле config.py нужно указать:
+1) В поле token нудно вставить токен бота. Токен можно получить тут https://discord.com/developers/docs/game-sdk/applications
+2) В поле Adm нужно указать полный путь к Adm файлy, если его у вас нет тогда фаиле запуска указываем такие параметры -dologs -adminlog -AdminLogPlacement -AdminLogBuildActions -netlog а в фаиле serverDZ.cfg вставляем такие параметры:
+adminLogPlayerHitsOnly = 1;
+adminLogPlacement = 1;
+adminLogBuildActions = 1;
+adminLogPlayerList = 1;)
+3) в конфиге на против значений 0 указываем id канала. 0 значит канал отключен!
+4) Готово
+
+Есть еще и мониторинг онлайна Monitor.py
+Там уже сами разбирайтесь все интуитивно понятно)))))))))))))))))))))))))))))))))))))))))))
+
+Вроде все объяснил ) мой дискорд DanilVasilevich#3037 https://discord.gg/V9aXXvdgH2
+
+![image](https://user-images.githubusercontent.com/83073582/194147569-837a9b7f-5ef0-4763-b8d6-04b5e56d99e8.png)
+
+да да это скрин скрина)
+![image](https://user-images.githubusercontent.com/83073582/194147662-6e095f13-a7eb-4f8f-bb11-48bdb6777cbb.png)
