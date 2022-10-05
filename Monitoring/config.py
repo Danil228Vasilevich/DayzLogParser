@@ -1,6 +1,7 @@
 settings = {
     'token': 'Token', #Токен для бота
     'thumbnail': 'DanilVasilevich#3037 \nMade with love ❤️', # Текст под сообщениями
+    'Adm': 'Putin', # Полный путь к Adm фаилу
     'chaConnect':0, # id канала где 0 отключено 
     'chaChat':0,  # id канала 0 отключено
     'chaDug':0,  # id канала 0 отключено
